@@ -1,0 +1,2 @@
+Gold Atlantis: Repaying the Credit
+As an analyst, you need to analyze the credit data of gold atlantis, gifure out various patterns in the data and make interpretations. The aim of this analysis is to help the firm identify those customers who have a lower probability of becoming a defaulter.
