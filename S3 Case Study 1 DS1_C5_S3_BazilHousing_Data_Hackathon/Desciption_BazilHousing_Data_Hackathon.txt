@@ -1,0 +1,3 @@
+Brazil Housing 
+	Castro Brazil Inc., a top real estate management firm with a nationwide presence in Brazil,wishes to help people choose an alternate city to relocated to.
+	As a data analyst, help the firm figure out suitable cities for relocation for bachelors,for mid-sized families and for large families.
